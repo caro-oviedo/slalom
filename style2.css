@@ -322,5 +322,8 @@ footer{
   .cards div {
   position: relative;
 }
-
+.iframevideo iframe{
+  width: 300px;
+  height: auto;
+}
 }
