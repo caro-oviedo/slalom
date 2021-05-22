@@ -317,6 +317,11 @@ footer{
   width: 100%;
   font-size: 1rem;  
  }
+  
+  .presentation-text {
+  margin:10px;
+  font-size: 8vw; 
+}
 
 .cards {
   display: grid;
